@@ -8,4 +8,6 @@ number=6
 result=fib(number)
 print(result)
 print(fib(number))
+print(fib(number))
+
 
