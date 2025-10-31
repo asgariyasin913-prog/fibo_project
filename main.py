@@ -11,3 +11,4 @@ print(fib(number))
 print(fib(number))
 
 
+def fib(number:int):
